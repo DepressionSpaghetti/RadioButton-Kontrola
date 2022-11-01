@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\bin\Debug\RadioButton kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\bin\Debug\RadioButton kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\bin\Debug\RadioButton kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\RadioButton kontrola\obj\Debug\RadioButton kontrola.pdb
